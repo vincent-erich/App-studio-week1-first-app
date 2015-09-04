@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Number Guessing Game</string>
+
+    <string name="instruction_line">Guess A Random Number</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_guess_button">Make a Guess!</string>
+</resources>
